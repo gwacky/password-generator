@@ -4,4 +4,4 @@ This project was created with minimum HTML and CSS, primarily optimized by JavaS
 The product is a random password the user can confidently use.
 
 
-(./Assets/03-javascript-homework-demo.png)
+![image](https://user-images.githubusercontent.com/89045948/136714038-b95391d1-7d3a-4d23-a209-307e2360adff.png)
